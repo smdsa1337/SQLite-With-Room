@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-merged_res-41:/layout_fragment_read_data.xml.flat",
+        "source": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-main-43:/layout/fragment_read_data.xml"
+    },
+    {
+        "merged": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-merged_res-41:/layout_fragment_write_data.xml.flat",
+        "source": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-main-43:/layout/fragment_write_data.xml"
+    },
+    {
+        "merged": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-merged_res-41:/layout_activity_main.xml.flat",
+        "source": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-merged_res-41:/layout_fragment_menu.xml.flat",
+        "source": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-main-43:/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-merged_res-41:/layout_one_item.xml.flat",
+        "source": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-main-43:/layout/one_item.xml"
+    },
+    {
+        "merged": "com.smdsa.sqlitewithroom.app-merged_res-41:/layout_one_item.xml.flat",
+        "source": "com.smdsa.sqlitewithroom.app-main-43:/layout/one_item.xml"
+    },
+    {
+        "merged": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-merged_res-41:/layout_content_main.xml.flat",
+        "source": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-main-43:/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-merged_res-41:/navigation_nav_graph.xml.flat",
+        "source": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-main-43:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-merged_res-41:/drawable_icon.png.flat",
+        "source": "/home/smdsa/.gradle/daemon/7.3.3/com.smdsa.sqlitewithroom.app-main-43:/drawable/icon.png"
+    }
+]

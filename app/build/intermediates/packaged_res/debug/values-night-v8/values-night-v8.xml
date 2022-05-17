@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0077FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <style name="Theme.SQLiteWithRoom" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+</resources>

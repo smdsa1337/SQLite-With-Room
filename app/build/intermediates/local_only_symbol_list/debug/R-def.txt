@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color white
+drawable icon
+id action_menuFragment_to_readDataFragment
+id action_menuFragment_to_writeDataFragment
+id action_readDataFragment_to_menuFragment
+id action_writeDataFragment_to_menuFragment
+id buttonToRead
+id buttonToWrite
+id buttonWrite
+id dataText
+id divider
+id firstName
+id menuFragment
+id nav_graph
+id nav_host_fragment_content_main
+id readDataFragment
+id recycleView
+id secondName
+id writeDataFragment
+layout activity_main
+layout content_main
+layout fragment_menu
+layout fragment_read_data
+layout fragment_write_data
+layout one_item
+navigation nav_graph
+string app_name
+string hello_blank_fragment
+style Theme.SQLiteWithRoom
